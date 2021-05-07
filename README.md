@@ -57,7 +57,7 @@ Write a script to extract the necessary features from the smaller subset of data
 Split the full dataset into train, test, and validation sets. Test out several of the machine learning methods you learned. Evaluate the accuracy of the various models, tuning parameters as necessary. Determine your winning model based on test accuracy and report results on the validation set. Since the churned users are a fairly small subset, I suggest using F1 score as the metric to optimize.
 
 ## Results
-A detailed review of the results can be found in this blogpost [here]() (not working yet).
+A detailed review of the results can be found in this blogpost [here](https://philip-57199.medium.com/churn-prediction-will-prove-to-be-extremely-useful-for-your-business-b5edd239eece)
 
 ## Reference
 I want to give credit for the data provided by Udacity's Data Scientist Nanodegree course.
